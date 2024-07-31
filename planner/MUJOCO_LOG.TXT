@@ -1,0 +1,6 @@
+Sun Jul 24 15:23:36 2022
+ERROR: Could not open activation key file /home/advaith/.mujoco/home/advaith/.mujoco/home/advaith/.mujoco/mjkey.txt
+
+Sun Jul 24 15:25:15 2022
+ERROR: Could not open activation key file /home/advaith/.mujoco/home/advaith/.mujoco/home/advaith/.mujoco/mjkey.txt
+
